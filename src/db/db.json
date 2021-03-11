@@ -1,0 +1,149 @@
+{
+  "issues": [
+    {
+      "title": "view issue",
+      "description": "viewing issue",
+      "severity": "Critical",
+      "status": "In Progress",
+      "createdAt": "2021-03-02",
+      "resolveAt": "2021-03-03",
+      "id": "9D3ZLv_NkKx16qLGp6RgG",
+      "view": 8
+    },
+    {
+      "title": "footer overlapping",
+      "description": "in add issue section footer is overlapped",
+      "severity": "Major",
+      "status": "Open",
+      "createdAt": "2021-03-03",
+      "resolveAt": "2021-03-03",
+      "id": "m_sofJDexduGrp5BJF9Y5",
+      "view": 5
+    },
+    {
+      "id": "iQdtwFXbd1kypctY4bhSw",
+      "title": "fixed login issue",
+      "description": "login issue fixed",
+      "severity": "Major",
+      "status": "Closed",
+      "createdAt": "2021-03-01",
+      "resolveAt": "2021-03-04",
+      "view": 10
+    },
+    {
+      "title": "update issue",
+      "description": "update issue not working",
+      "severity": "Major",
+      "status": "Open",
+      "createdAt": "2021-03-04",
+      "resolveAt": "2021-03-05",
+      "id": "TxnRhQ_SY9lnst6mMQFV9",
+      "view": 4
+    },
+    {
+      "title": "add issue validation",
+      "description": "the form validation is changed from to formik",
+      "severity": "Major",
+      "status": "Closed",
+      "createdAt": "2021-03-03",
+      "resolveAt": "2021-03-07",
+      "id": "TtSJwM3PretGucE5zkqsF",
+      "view": 6
+    },
+    {
+      "title": "adding chart",
+      "description": "Adding chart to vie the top issue",
+      "severity": "Major",
+      "status": "Open",
+      "createdAt": "2021-03-04",
+      "resolveAt": "2021-03-06",
+      "id": "ZRi0gS7pJGFmxKpxH-h2i",
+      "view": 3
+    },
+    {
+      "title": "application completed",
+      "description": "Finally the application is completed",
+      "severity": "Minor",
+      "status": "In Progress",
+      "createdAt": "2021-03-11",
+      "resolveAt": "2021-03-11",
+      "id": "ARRCNydTT0FDFuCPTcJgl",
+      "view": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "subham",
+      "lastName": "saurabh",
+      "email": "subham@gmail.com",
+      "password": "test",
+      "location": "Pune",
+      "mobile": "1234567890"
+    },
+    {
+      "id": 2,
+      "firstName": "user",
+      "lastName": "test",
+      "email": "user@gmail.com",
+      "password": "test",
+      "location": "Bangalore",
+      "mobile": "9876543210"
+    },
+    {
+      "id": "eS0pl-xbhjYEFME_AJ4Gn",
+      "firstName": "random",
+      "lastName": "user",
+      "email": "user@yahoo.com",
+      "password": "1234",
+      "location": "Hyderabad",
+      "mobile": "7894561230"
+    },
+    {
+      "id": "yb-brhrzwiQFSssBA9-0w",
+      "firstName": "random",
+      "lastName": "user 2",
+      "email": "aaa@aaa.com",
+      "password": "test",
+      "location": "Hyderabad",
+      "mobile": "2345678910"
+    },
+    {
+      "id": "ulEabLHUat-bBJv3NQqof",
+      "firstName": "subham",
+      "lastName": "saurabh",
+      "email": "subham@wipro.com",
+      "password": "test",
+      "location": "Mumbai",
+      "mobile": "2356897410"
+    },
+    {
+      "id": "pskQaIBHy28xOZk9lihDI",
+      "firstName": "prakhar",
+      "lastName": "gupta",
+      "email": "prakhar@gmail.com",
+      "password": "1234",
+      "location": "Delhi",
+      "mobile": "6543219870"
+    },
+    {
+      "id": "G6Kb5EocDhNFV35HeGQ1x",
+      "firstName": "ndfnb",
+      "lastName": "bsdfbdf",
+      "email": "bsv@vsdv",
+      "password": "1234",
+      "location": "Hyderabad",
+      "mobile": "3253272456"
+    },
+    {
+      "id": "osmhTbmzJTFc7Mucc1CFR",
+      "firstName": "shwetabh",
+      "lastName": "gangwar",
+      "email": "shwetabh@gmail.com",
+      "password": "test1234",
+      "confirmPassword": "test1234",
+      "location": "Delhi",
+      "mobile": "1234567990"
+    }
+  ]
+}

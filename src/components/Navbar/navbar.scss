@@ -1,0 +1,42 @@
+nav {
+  .nav-container {
+    width: 90%;
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+
+      .nav-logo {
+        cursor: pointer;
+        margin-right: 35px;
+      }
+    }
+
+    .nav-left {
+      width: 45%;
+      display: flex;
+      justify-content: space-between;
+      a {
+        position: static;
+        color: hsl(233, 13%, 49%);;
+        font-weight: 600;
+        border-bottom: 3px solid transparent;
+        &:hover{
+          text-decoration: none;
+          border-color: hsl(237, 63%, 64%);
+        }
+      }
+      .welcome {
+        text-transform: capitalize;
+      }
+      .nav-link-active {
+        border-bottom: 3px solid hsl(237, 63%, 64%);
+      }
+    }
+  }
+}

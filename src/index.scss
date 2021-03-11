@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  background-color: rgb(246, 246, 254);
+
+}
+p {
+  margin-bottom: 5px;
+}
+
+.error {
+  color: red;
+  position: absolute;
+  font-size: 12px;
+}
+
+// .card{
+//   height: 330px;
+// }
+.card-header {
+  background: linear-gradient(to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+
+.card-footer{
+  background:linear-gradient(to right, hsl(234, 62%, 81%), hsl(234, 36%, 79%));
+
+}
+.issue-card{
+  height: 330px;
+}
+.issue-footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
